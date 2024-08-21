@@ -9,7 +9,9 @@ ANSWER
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ANSWER
-
+1. Log in into a Github account.
+2. Click on new repository.
+3. 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
