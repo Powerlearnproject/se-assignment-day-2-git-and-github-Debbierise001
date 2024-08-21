@@ -14,11 +14,15 @@ ANSWER
 3. Name the new repository. It is like naming a folder.
 4. Click on private or public. This depends on those you want to see the repository.
 5. initiate or add a Readme. This describes the project and allows others to have a better understanding.
-6. Add a .gitignore File. This tells Git to ignore certain files you don’t want to include in your repository, like temporary files or sensitive information.
+6. Add a .gitignore File. This tells Git to ignore certain files you don’t want to include in your repository, like temporary files or sensitive information. Click none if you do not want Git to ignore any file.
 7. Choose a license. This tells others what they can and can’t do with your code.
+8. Click on Create Repository.
+
 The key decisions involve choosing the repository’s visibility (public or private) and whether to include files like README or a license. These decisions shape how you and others will work with your project.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+
+ANSWER
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
