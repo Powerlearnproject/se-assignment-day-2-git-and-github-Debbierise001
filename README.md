@@ -48,35 +48,34 @@ A private repository is only open to the person who owns the project and those w
 
 ANSWER
 
-1. Initialize a new Git repository:
-
+1. Configure git
 bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 
+2. Initialize a new Git repository:
+bash
 git init
 
-2. Add files to the staging area:
-
+3. Add files to the staging area:
 bash
-
 git add <file-name> # To add a specific file
-
 git add. #To add all files in the current directory
 
-3. Commit your changes:
-
+4. Commit your changes:
 bash
-
 git commit -m "Your commit message"
 
-4. Push changes to GitHub:
-
+5. Push changes to GitHub:
 bash
-
 git push origin main # Replace 'main' with your branch name if different
 
+A commit records records changes to one or more files in your branch. They are snapshots of your project's files at a particular point in time. Each commit includes a unique identifier, the changes made, and a message describing those changes.
 
+Commit helps in tracking changes and managing different versions of your project because you can see the history of all the changes you made, revert any previous version if you want to, and also manage and merge different contributions from various collaborators.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
