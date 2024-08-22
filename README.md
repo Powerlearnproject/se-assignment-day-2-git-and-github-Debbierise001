@@ -46,6 +46,35 @@ A private repository is only open to the person who owns the project and those w
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
+ANSWER
+
+1. Initialize a new Git repository:
+
+bash
+
+git init
+
+2. Add files to the staging area:
+
+bash
+
+git add <file-name> # To add a specific file
+
+git add. #To add all files in the current directory
+
+3. Commit your changes:
+
+bash
+
+git commit -m "Your commit message"
+
+4. Push changes to GitHub:
+
+bash
+
+git push origin main # Replace 'main' with your branch name if different
+
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
