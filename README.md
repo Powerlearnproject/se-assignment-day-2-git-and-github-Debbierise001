@@ -85,6 +85,19 @@ Branching is an important feature for collaborative development on GitHub becaus
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
+ANSWER
+Pull requests play a crucial role in the GitHub workflow by enabling code review and collaboration. They allow developers to propose changes to a codebase, discuss those changes, and ensure code quality before merging into the main branch.
+
+How Pull Requests facilitate code review and collaboration
+1. Proposing Changes: Developers create a pull request to propose changes from a feature branch to the main branch.
+2. Code Review: Members with access can review the changes, provide feedback, suggest improvements, and discuss potential issues directly on the pull request.
+3. Collaboration: Multiple collaborators can contribute to the pull request, making additional commits or edits until the proposed changes meet the team's standards.
+4. Testing and Validation: Automated tests can be triggered, and continuous integration checks can be run to validate the changes.
+5. Approval: Once the changes are reviewed, approved, and tested, the pull request can be merged into the main code.
+
+Steps involve in creating and merging a pull request.
+
+
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
